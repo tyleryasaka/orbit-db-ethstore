@@ -1,0 +1,26 @@
+{
+  "name": "orbit-db-ethstore",
+  "version": "0.0.0",
+  "description": "Custom OrbitDB keystore using Ethereum accounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleryasaka/orbit-db-ethstore.git"
+  },
+  "keywords": [
+    "orbit-db",
+    "ethereum"
+  ],
+  "author": "Tyler Yasaka",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/tyleryasaka/orbit-db-ethstore/issues"
+  },
+  "homepage": "https://github.com/tyleryasaka/orbit-db-ethstore#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  }
+}

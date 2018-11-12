@@ -1,2 +1,2 @@
 # orbit-db-ethstore
-Custom OrbitDB keystore using Ethereum accounts
+Custom [OrbitDB keystore](https://github.com/orbitdb/orbit-db/blob/master/GUIDE.md#custom-stores) using Ethereum accounts
